@@ -1,5 +1,5 @@
 #CACHUPIN
-#ABRE UNA TERMINAL, ESCRIBE : game_js_cachupin git:(main) node cachupin.js  
+#UBICATE EN LA CARPETA "game_js_cachupin git:(main)" si la clonaste, luego, Abre una terminal y escribe en la linea de comando : node cachupin.js  
 # Y podras jugar.
 
 
